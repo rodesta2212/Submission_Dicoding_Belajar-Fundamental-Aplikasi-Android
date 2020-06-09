@@ -8,7 +8,7 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
 [Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission1)
 
 
-##### Screenshots
+##### Screenshots Submission 1
 <img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission1_1.png"
      alt="Submission1 1"
      style="float: left; margin-right: 10px;"
@@ -18,7 +18,7 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
      style="float: left; margin-right: 10px;"
      width="200" />
      
-##### Submission Checklists
+##### Submission 1 Checklists
 - [x] Menampilkan data pada halaman aplikasi dengan minimal jumlah <strong>10 item</strong>.
 - [x] Menggunakan <strong>ListView/RecyclerView</strong>.
 - [x] Menampilkan avatar dan informasi user pada halaman </strong>Detail User</strong>.
