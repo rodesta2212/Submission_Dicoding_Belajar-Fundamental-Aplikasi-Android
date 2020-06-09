@@ -14,21 +14,15 @@ class UserDetail : AppCompatActivity() {
         setContentView(R.layout.user_detail)
 
         val listUser : UserData = intent.getParcelableExtra(EXTRA_DATA)
-        val data_username = listUser.username
-        val data_location = listUser.location
-        val data_repository = listUser.repository
-        val data_company = listUser.company
-        val data_followers = listUser.followers
-        val data_following = listUser.following
 
         detail_avatar.setImageResource(listUser.avatar!!)
-        detail_username.text = "Username : $data_username"
+        detail_username.text = getString(R.string.username, listUser.username)
         detail_name.text = listUser.name
-        detail_location.text = "Location : $data_location"
-        detail_repository.text = "Repository : $data_repository"
-        detail_company.text = "Company : $data_company"
-        detail_followers.text = "Followers : $data_followers"
-        detail_following.text = "Following : $data_following"
+        detail_location.text = getString(R.string.location, listUser.location)
+        detail_repository.text = getString(R.string.repository, listUser.repository)
+        detail_company.text = getString(R.string.company, listUser.company)
+        detail_followers.text = getString(R.string.followers, listUser.followers)
+        detail_following.text = getString(R.string.following, listUser.following)
 
     }
 

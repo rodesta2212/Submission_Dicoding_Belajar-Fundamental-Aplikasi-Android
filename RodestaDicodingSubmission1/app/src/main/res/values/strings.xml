@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Rodesta - Dicoding Submission 1</string>
-    <string name="username">Username</string>
-    <string name="name">Name</string>
-    <string name="location">Location</string>
-    <string name="repository">Repository</string>
-    <string name="company">Company</string>
-    <string name="followers">Followers</string>
-    <string name="following">Following</string>
+    <string name="username">Username : %s</string>
+    <string name="name">Name : %s </string>
+    <string name="location">Location : %s </string>
+    <string name="repository">Repository : %s </string>
+    <string name="company">Company : %s </string>
+    <string name="followers">Followers : %s </string>
+    <string name="following">Following : %s </string>
     <string name="avatar">Avatar</string>
 
     <string-array name="username">
