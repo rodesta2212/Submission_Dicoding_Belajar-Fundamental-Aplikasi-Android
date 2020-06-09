@@ -9,10 +9,11 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
 
 
 ##### Screenshots
-<img src="https://raw.githubusercontent.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/master/screenshot/submission1_1.png"
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/screenshot/submission1_1.png"
      alt="Submission1 1"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://raw.githubusercontent.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/master/screenshot/submission1_2.png"
+     width="200" /> 
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/screenshot/submission1_2.png"
      alt="Submission1 2"
      style="float: left; margin-right: 10px;"
      width="200" />
