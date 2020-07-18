@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rodesta - Dicoding Submission 2</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="nulled">Null</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>

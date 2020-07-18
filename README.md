@@ -1,4 +1,4 @@
-# Submission Dicoding Belajar Fundamental Aplikasi Android (Kotlin)
+﻿# Submission Dicoding Belajar Fundamental Aplikasi Android (Kotlin)
 Submission Untuk Kelas Dicoding Belajar Fundamental Aplikasi Android. Di sini saya menggunakan Kotlin.
 
 ## Perhatian !!!
@@ -6,7 +6,6 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
 
 ### Submission 1
 [Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission1)
-
 
 ##### Screenshots Submission 1
 <img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission1_1.png"
@@ -25,7 +24,36 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
 - [x] Menggunakan <strong>Parcelable</strong> sebagai interface dari obyek data yang akan dikirimkan antar Activity.
 
 ### Submission 2
-Sedang Dikerjakan.
+Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission2)
+
+##### Screenshots Submission 2
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission2_1.png"
+     alt="Submission2 1"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission2_2.png"
+     alt="Submission2 2"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+ <img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission2_3.png"
+     alt="Submission2 3"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission2_4.png"
+     alt="Submission2 4"
+     style="float: left; margin-right: 10px;"
+     width="200" />	 
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission2_5.png"
+     alt="Submission2 5"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission2_6.png"
+     alt="Submission2 6"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+     
+### Submission 3
+Sedang Dikerjakan
 
 ### Author
 <strong>[Ricky Rodesta Listiawan](https://github.com/rodesta2212)</strong>
