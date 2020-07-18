@@ -24,7 +24,7 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
 - [x] Menggunakan <strong>Parcelable</strong> sebagai interface dari obyek data yang akan dikirimkan antar Activity.
 
 ### Submission 2
-Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission2)
+[Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission2)
 
 ##### Screenshots Submission 2
 <img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission2_1.png"
