@@ -27,7 +27,7 @@
         android:layout_below="@id/txt_name"
         android:layout_marginStart="26dp"
         android:layout_marginTop="10dp"
-        android:layout_toRightOf="@id/img_avatar"
+        android:layout_toEndOf="@id/img_avatar"
         android:ellipsize="end"
         android:maxLines="3"
         android:text="@string/company" />
@@ -38,7 +38,7 @@
         android:layout_below="@id/txt_company"
         android:layout_marginStart="26dp"
         android:layout_marginTop="10dp"
-        android:layout_toRightOf="@id/img_avatar"
+        android:layout_toEndOf="@id/img_avatar"
         android:ellipsize="end"
         android:maxLines="3"
         android:text="@string/location" />

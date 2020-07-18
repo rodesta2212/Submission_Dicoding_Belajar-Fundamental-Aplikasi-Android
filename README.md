@@ -28,4 +28,4 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
 Sedang Dikerjakan.
 
 ### Author
-<strong>Ricky Rodesta Listiawan</strong>
+<strong>[Ricky Rodesta Listiawan](https://github.com/rodesta2212)</strong>
