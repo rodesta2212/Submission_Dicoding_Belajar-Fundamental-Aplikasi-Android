@@ -52,6 +52,14 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
      style="float: left; margin-right: 10px;"
      width="200" />
      
+##### Submission 1 Checklists
+- [x] Mempertahankan informasi user yang sudah ditampilkan pada Submission 1.
+- [x] <strong>Pencarian User</strong> menggunakan data dari API berjalan dengan baik.
+- [x] Data list user yang ditampilkan menggunakan <strong>RecyclerView</strong>.
+- [x] List Item untuk <strong>RecyclerView</strong> disusun menggunakan <strong>ConstraintLayout</strong>.
+- [x] Menggunakan <strong>TabLayout</strong>, <strong>BottomNavigationView</strong> atau yang lainnya sebagai navigasi antara halaman <strong>List Follower</strong> dan <strong>List Following</strong>.
+- [x] Terdapat <strong>indikator loading</strong> saat aplikasi memuat data.
+
 ### Submission 3
 Sedang Dikerjakan
 
