@@ -52,7 +52,7 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
      style="float: left; margin-right: 10px;"
      width="200" />
      
-##### Submission 1 Checklists
+##### Submission 2 Checklists
 - [x] Mempertahankan informasi user yang sudah ditampilkan pada Submission 1.
 - [x] <strong>Pencarian User</strong> menggunakan data dari API berjalan dengan baik.
 - [x] Data list user yang ditampilkan menggunakan <strong>RecyclerView</strong>.
