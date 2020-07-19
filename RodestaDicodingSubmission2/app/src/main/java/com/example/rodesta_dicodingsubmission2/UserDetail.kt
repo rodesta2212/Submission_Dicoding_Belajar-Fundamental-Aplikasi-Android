@@ -35,21 +35,21 @@ class UserDetail : AppCompatActivity() {
 
     private fun setActionBarTitle(title: String) {
         if (supportActionBar != null) {
-            supportActionBar!!.title = title
+            this.title = title
         }
     }
 
-    @SuppressLint("SetTextI18n")
+    @SuppressLint("SetTextI18n", "StringFormatInvalid")
     private fun setData() {
         val dataUser = intent.getParcelableExtra(EXTRA_DATA) as UserData
-        setActionBarTitle(dataUser.name.toString())
-        detail_name.text = dataUser.name.toString()
-        detail_username.text = dataUser.username.toString()
-        detail_company.text = "Company : " + dataUser.company.toString()
-        detail_location.text = "Location : " + dataUser.location.toString()
-        detail_repository.text = "Repository : " + dataUser.repository.toString()
+        dataUser.name?.let { setActionBarTitle(it) }
+        detail_name.text = dataUser.name
+        detail_username.text = dataUser.username
+        detail_company.text = getString(R.string.company, dataUser.company)
+        detail_location.text = getString(R.string.location, dataUser.location)
+        detail_repository.text = getString(R.string.repository, dataUser.repository)
         Glide.with(this)
-            .load(dataUser.avatar.toString())
+            .load(dataUser.avatar)
             .into(detail_avatar)
     }
 

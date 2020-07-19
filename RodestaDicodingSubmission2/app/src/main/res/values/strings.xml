@@ -9,6 +9,5 @@
     <string name="followers">Followers</string>
     <string name="following">Following</string>
     <string name="avatar">Avatar</string>
-    <string name="nulled">Null</string>
     <string name="change_language_settings">Change Language Settings</string>
 </resources>

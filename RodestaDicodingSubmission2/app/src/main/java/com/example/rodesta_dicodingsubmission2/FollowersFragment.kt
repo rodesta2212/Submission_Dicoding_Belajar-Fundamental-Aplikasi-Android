@@ -33,8 +33,7 @@ class FollowersFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         adapter = FollowersAdapter(listUser)
         listUser.clear()
-        val dataUser =
-            activity!!.intent.getParcelableExtra(EXTRA_DATA) as UserData
+        val dataUser = activity!!.intent.getParcelableExtra(EXTRA_DATA) as UserData
         getUserFollowers(dataUser.username.toString())
     }
 
@@ -50,7 +49,7 @@ class FollowersFragment : Fragment() {
                 headers: Array<Header>,
                 responseBody: ByteArray
             ) {
-                progressBarFollowers.visibility = View.INVISIBLE
+                progressBarFollowers?.visibility = View.INVISIBLE
                 val result = String(responseBody)
                 Log.d(TAG, result)
                 try {

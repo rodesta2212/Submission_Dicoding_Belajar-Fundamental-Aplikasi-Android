@@ -9,6 +9,5 @@
     <string name="followers">Pengikut</string>
     <string name="following">Mengikuti</string>
     <string name="avatar">Avatar</string>
-    <string name="nulled">Tidak Terisi</string>
     <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
 </resources>

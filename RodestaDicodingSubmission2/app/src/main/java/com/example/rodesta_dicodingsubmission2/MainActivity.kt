@@ -242,7 +242,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showSelectedUser(dataUser: UserData) {
-        val dataUser = UserData(
+        UserData(
             dataUser.username,
             dataUser.name,
             dataUser.avatar,

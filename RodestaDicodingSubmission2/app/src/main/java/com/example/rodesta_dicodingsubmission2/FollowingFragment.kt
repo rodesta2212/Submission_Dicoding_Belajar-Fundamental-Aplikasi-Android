@@ -49,7 +49,7 @@ class FollowingFragment : Fragment() {
                 headers: Array<Header>,
                 responseBody: ByteArray
             ) {
-                progressBarFollowing.visibility = View.INVISIBLE
+                progressBarFollowing?.visibility = View.INVISIBLE
                 val result = String(responseBody)
                 Log.d(TAG, result)
                 try {
