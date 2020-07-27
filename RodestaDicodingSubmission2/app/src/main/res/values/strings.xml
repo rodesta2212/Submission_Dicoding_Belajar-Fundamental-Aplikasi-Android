@@ -3,9 +3,9 @@
     <string name="app_name">Rodesta - Dicoding Submission 2</string>
     <string name="username">Username</string>
     <string name="name">Name</string>
-    <string name="location">Location</string>
-    <string name="repository">Repository</string>
-    <string name="company">Company</string>
+    <string name="location">Location : %s </string>
+    <string name="repository">Repository : %s </string>
+    <string name="company">Company : %s </string>
     <string name="followers">Followers</string>
     <string name="following">Following</string>
     <string name="avatar">Avatar</string>

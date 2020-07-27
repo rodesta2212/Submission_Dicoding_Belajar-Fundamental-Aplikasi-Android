@@ -44,7 +44,6 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra(UserDetail.EXTRA_DATA, listDataUser)
 
             this@MainActivity.startActivity(intent)
-
             Toast.makeText(this@MainActivity, users[position].name, Toast.LENGTH_SHORT).show()
         }
     }
