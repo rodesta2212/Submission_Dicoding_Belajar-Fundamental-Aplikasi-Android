@@ -1,0 +1,3 @@
+include ':consumerapp'
+include ':app'
+rootProject.name = "Rodesta - Dicoding Submission 3"

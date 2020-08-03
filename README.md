@@ -61,7 +61,32 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
 - [x] Terdapat <strong>indikator loading</strong> saat aplikasi memuat data.
 
 ### Submission 3
-Sedang Dikerjakan
+[Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission3)
+
+##### Screenshots Submission 3
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_1.png"
+     alt="Submission3 1"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_2.png"
+     alt="Submission3 2"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+ <img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_3.png"
+     alt="Submission3 3"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_4.png"
+     alt="Submission3 4"
+     style="float: left; margin-right: 10px;"
+     width="200" />	 
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_5.png"
+     alt="Submission3 5"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+     
+##### Submission 3 Checklists
+- [x] sedang di kerjakan
 
 ### Author
 <strong>[Ricky Rodesta Listiawan](https://github.com/rodesta2212)</strong>

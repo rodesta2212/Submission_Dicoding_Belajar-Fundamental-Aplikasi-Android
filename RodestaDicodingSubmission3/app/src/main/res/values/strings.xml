@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rodesta - Dicoding Submission 3</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location : %s </string>
+    <string name="repository">Repository : %s </string>
+    <string name="company">Company : %s </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="find_username">Find Username</string>
+    <string name="change_language_settings">Language Settings</string>
+    <string name="change_notification_settings">Notification Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="add_favorite">"Added Favorite"</string>
+    <string name="delete_favorite">"Deleted Favorite"</string>
+    <string name="empty_favorite">Empty Data</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_message">Find new favorite user on Github</string>
+</resources>

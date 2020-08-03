@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rodesta - Dicoding Submission 3</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi : %s </string>
+    <string name="repository">Repository : %s </string>
+    <string name="company">Perusahaan : %s </string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="avatar">Avatar</string>
+    <string name="find_username">Cari Username</string>
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+    <string name="change_notification_settings">Pengaturan Pemberitahuan</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Pengaturan</string>
+    <string name="add_favorite">"Tambahkan Favorite"</string>
+    <string name="delete_favorite">"Hapus Favorite"</string>
+    <string name="empty_favorite">Data Kosong</string>
+    <string name="reminder_setting">Pengaturan Pengingat</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="daily_message">Cari user favorite baru di Github</string>
+</resources>
