@@ -63,7 +63,7 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
 ### Submission 3
 [Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission3)
 
-##### Screenshots Submission 3
+##### Screenshots Submission 3 (App)
 <img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_1.png"
      alt="Submission3 1"
      style="float: left; margin-right: 10px;"
@@ -82,6 +82,16 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
      width="200" />	 
 <img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_5.png"
      alt="Submission3 5"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+
+##### Screenshots Submission 3 (Consumerapp)
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_6.png"
+     alt="Submission3 6"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/blob/master/screenshot/submission3_7.png"
+     alt="Submission3 7"
      style="float: left; margin-right: 10px;"
      width="200" />
      
