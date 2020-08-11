@@ -1,8 +1,8 @@
 ﻿# Submission Dicoding Belajar Fundamental Aplikasi Android (Kotlin)
-Submission Untuk Kelas Dicoding Belajar Fundamental Aplikasi Android. Di sini saya menggunakan Kotlin.
+Submission Untuk Kelas Dicoding Belajar Fundamental Aplikasi Android (BFAA). Di sini saya menggunakan Kotlin.
 
 ## Perhatian !!!
-Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundamental aplikasi android](https://www.dicoding.com/academies/14) agar dapat membantu teman - teman dalam menyelesaikan submission yang sedang dikerjakan. Ingat untuk tidak <strong>mengcopy-paste</strong> saja tanpa tau skema programmingnya. Jangan hanya mencari sertifikat saja tanpa memperoleh ilmunya.
+Repo ini saya buat sebagai bahan refrensi untuk  <strong>[Kelas Dicoding Belajar Fundamental Aplikasi Android (BFAA)](https://www.dicoding.com/academies/14)</strong> agar dapat membantu teman - teman dalam menyelesaikan submission yang sedang dikerjakan. Ingat untuk tidak sekedar <strong>mengcopy-paste</strong> saja tanpa tau skema programmingnya.
 
 ### Submission 1
 [Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission1)
