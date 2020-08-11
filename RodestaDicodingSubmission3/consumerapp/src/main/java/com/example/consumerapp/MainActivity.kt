@@ -1,10 +1,14 @@
 package com.example.consumerapp
 
+import android.content.Intent
 import android.database.ContentObserver
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.HandlerThread
+import android.provider.Settings
+import android.view.Menu
+import android.view.MenuItem
 import android.view.View
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -96,5 +100,24 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         loadNotesAsync()
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu): Boolean {
+        menuInflater.inflate(R.menu.main_menu, menu)
+        return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.action_change_settings -> {
+                val mIntent = Intent(Settings.ACTION_LOCALE_SETTINGS)
+                startActivity(mIntent)
+            }
+            R.id.action_change_notification -> {
+                val mIntent = Intent(this, NotificationSettings::class.java)
+                startActivity(mIntent)
+            }
+        }
+        return super.onOptionsItemSelected(item)
     }
 }

@@ -86,7 +86,13 @@ Repo ini saya buat sebagai bahan refrensi untuk  [kelas dicoding belajar fundame
      width="200" />
      
 ##### Submission 3 Checklists
-- [x] sedang di kerjakan
+- [x] Aplikasi bisa <strong>menambah</strong> user ke daftar favorite.
+- [x] Aplikasi bisa <strong>menghapus</strong> user dari daftar favorite.
+- [x] Halaman yang menampilkan daftar user favorite.
+- [x] Terdapat <strong>pengaturan</strong> untuk menghidupkan dan mematikan reminder di <strong>halaman Setting</strong>.
+- [x] <strong>Daily reminder</strong> untuk <strong>kembali ke aplikasi</strong> yang berjalan pada pukul <strong>09.00 AM</strong>.
+- [x] Membuat <strong>module baru</strong> yang menampilkan daftar user favorite dengan menggunakan <strong>ContentProvider</strong>.
+- [x] Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada <strong>Submission 2</strong>.
 
 ### Author
 <strong>[Ricky Rodesta Listiawan](https://github.com/rodesta2212)</strong>
