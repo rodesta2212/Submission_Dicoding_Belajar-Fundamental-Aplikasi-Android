@@ -2,7 +2,9 @@
 Submission Untuk Kelas Dicoding Belajar Fundamental Aplikasi Android (BFAA). Di sini saya menggunakan Kotlin.
 
 ## Perhatian !!!
-Repo ini saya buat sebagai bahan refrensi untuk  <strong>[Kelas Dicoding Belajar Fundamental Aplikasi Android (BFAA)](https://www.dicoding.com/academies/14)</strong> agar dapat membantu teman - teman dalam menyelesaikan submission yang sedang dikerjakan. Ingat untuk tidak sekedar <strong>mengcopy-paste</strong> saja tanpa memahami skema programmingnya.
+Repo ini saya buat sebagai bahan refrensi untuk  <strong>[Kelas Dicoding Belajar Fundamental Aplikasi Android (BFAA)](https://www.dicoding.com/academies/14)</strong> agar dapat membantu teman - teman dalam menyelesaikan submission yang sedang dikerjakan. Ingat untuk tidak sekedar <strong>mengcopy-paste</strong> saja tanpa memahami skema programmingnya. Semoga Bermanfaat.
+- Pastikan API Token githubnya di update (di ganti dengan punya anda).
+- Cek dan sesuaikan gradle dengan kebutuhan anda (update gradle).
 
 ### Submission 1
 [Source Code](https://github.com/rodesta2212/Submission_Dicoding_Belajar-Fundamental-Aplikasi-Android/tree/master/RodestaDicodingSubmission1)
@@ -104,9 +106,6 @@ Repo ini saya buat sebagai bahan refrensi untuk  <strong>[Kelas Dicoding Belajar
 - [x] Membuat <strong>module baru</strong> yang menampilkan daftar user favorite dengan menggunakan <strong>ContentProvider</strong>.
 - [x] Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada <strong>Submission 2</strong>.
 
-#### PERHATIAN !!!
-- Pastikan API Token githubnya di update (di ganti dengan punya anda).
-- Cek dan sesuaikan gradle dengan kebutuhan anda (update gradle).
 
 ### Author
 <strong>[Ricky Rodesta Listiawan](https://github.com/rodesta2212)</strong>
