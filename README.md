@@ -104,5 +104,9 @@ Repo ini saya buat sebagai bahan refrensi untuk  <strong>[Kelas Dicoding Belajar
 - [x] Membuat <strong>module baru</strong> yang menampilkan daftar user favorite dengan menggunakan <strong>ContentProvider</strong>.
 - [x] Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada <strong>Submission 2</strong>.
 
+#### PERHATIAN !!!
+- Pastikan API Token githubnya di update (di ganti dengan punya anda).
+- Cek dan sesuaikan gradle dengan kebutuhan anda (update gradle).
+
 ### Author
 <strong>[Ricky Rodesta Listiawan](https://github.com/rodesta2212)</strong>
